@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 # My Languages/Frameworks/Tools:
-[![My Skills](https://skillicons.dev/icons?i=c,make,python,mysql,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,make,python,mysql,js,ts,qt,nodejs,mongodb,linux,neovim,vim,visualstudio)](https://skillicons.dev)
 
 # Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcelVincourt&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)\
